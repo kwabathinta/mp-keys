@@ -1,2 +1,1 @@
-# Ключі персональних кодів Plugin Manager. Згенеровано з kwabathinta/custom-mp-plgns.
-# id	salt	data — без коду з них нічого не дізнатися.
+
